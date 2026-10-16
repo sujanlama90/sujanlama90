@@ -68,25 +68,6 @@ I believe in writing clean code, understanding the fundamentals, and improving t
 
 ---
 
-## 🚀 Featured Projects
-
-### 🍽️ Restaurant Management REST API
-
-A backend API project focused on restaurant operations and role-based access control.
-
-- User registration and JWT authentication
-- Customer, staff, and admin roles
-- Menu categories and food item management
-- Cart and review functionality
-- API permissions, filtering, pagination, and throttling
-- Interactive API documentation with Swagger
-
-**Built with:** Python · Django · Django REST Framework · JWT · PostgreSQL / SQLite
-
-🔗 **Repository:** Add your restaurant API repository link here.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
