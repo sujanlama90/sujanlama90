@@ -5,11 +5,6 @@
 <p align="center">
   Building reliable backend systems and RESTful APIs with Python, Django, and Django REST Framework.
 </p>
-
-<p align="center">
-<img src="https://i.redd.it/n8agw6z2smyb1.gif" width="550">
-</p>
-
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -24,6 +19,9 @@
 </p>
 
 ---
+<p align="center">
+<img src="https://i.redd.it/n8agw6z2smyb1.gif" width="550">
+</p>
 
 ## 👨‍💻 About Me
 
